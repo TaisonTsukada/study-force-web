@@ -1,0 +1,18 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "cSpell.words": [
+    "MRJPMZ",
+    "VXFQZ",
+    "clickaway",
+    "clsx",
+    "datasheet",
+    "notistack",
+    "overlayscrollbars",
+    "scrollable",
+    "unmount"
+  ]
+}
